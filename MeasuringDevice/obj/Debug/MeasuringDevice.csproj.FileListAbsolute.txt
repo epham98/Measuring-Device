@@ -1,0 +1,15 @@
+C:\Users\Ethan\source\repos\MeasuringDevice\MeasuringDevice\obj\Debug\MainWindow.g.cs
+C:\Users\Ethan\source\repos\MeasuringDevice\MeasuringDevice\obj\Debug\App.g.cs
+C:\Users\Ethan\source\repos\MeasuringDevice\MeasuringDevice\obj\Debug\MeasuringDevice_MarkupCompile.cache
+C:\Users\Ethan\source\repos\MeasuringDevice\MeasuringDevice\obj\Debug\MeasuringDevice_MarkupCompile.lref
+C:\Users\Ethan\source\repos\MeasuringDevice\MeasuringDevice\bin\Debug\MeasuringDevice.exe.config
+C:\Users\Ethan\source\repos\MeasuringDevice\MeasuringDevice\bin\Debug\MeasuringDevice.exe
+C:\Users\Ethan\source\repos\MeasuringDevice\MeasuringDevice\bin\Debug\MeasuringDevice.pdb
+C:\Users\Ethan\source\repos\MeasuringDevice\MeasuringDevice\obj\Debug\MainWindow.baml
+C:\Users\Ethan\source\repos\MeasuringDevice\MeasuringDevice\obj\Debug\MeasuringDevice.g.resources
+C:\Users\Ethan\source\repos\MeasuringDevice\MeasuringDevice\obj\Debug\MeasuringDevice.Properties.Resources.resources
+C:\Users\Ethan\source\repos\MeasuringDevice\MeasuringDevice\obj\Debug\MeasuringDevice.csproj.GenerateResource.cache
+C:\Users\Ethan\source\repos\MeasuringDevice\MeasuringDevice\obj\Debug\MeasuringDevice.csproj.CoreCompileInputs.cache
+C:\Users\Ethan\source\repos\MeasuringDevice\MeasuringDevice\obj\Debug\MeasuringDevice.exe
+C:\Users\Ethan\source\repos\MeasuringDevice\MeasuringDevice\obj\Debug\MeasuringDevice.pdb
+C:\Users\Ethan\source\repos\MeasuringDevice\MeasuringDevice\obj\Debug\MeasuringDevice.csprojAssemblyReference.cache
